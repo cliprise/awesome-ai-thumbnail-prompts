@@ -21,15 +21,15 @@ This repository is built for **YouTubers, creators, educators, marketers, podcas
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Best AI Image Generator Resources](https://github.com/cliprise/best-ai-image-generator-resources)
-- [Awesome AI Image Generator Prompts](https://github.com/cliprise/awesome-ai-image-generator-prompts)
-- [Awesome Nano Banana Pro Prompts](https://github.com/cliprise/awesome-nano-banana-pro-prompts)
-- [Awesome AI YouTube Shorts Prompts](https://github.com/cliprise/awesome-ai-youtube-shorts-prompts)
-
----
-
+- [Best AI image generator resources](https://github.com/cliprise/best-ai-image-generator-resources) - tested rankings, use-case fit, and editing paths for AI image generation.
+- [Awesome AI YouTube Shorts prompts](https://github.com/cliprise/awesome-ai-youtube-shorts-prompts) - Shorts-first framing, hooks, and thumbnail-safe compositions.
+- [Awesome AI image generator prompts](https://github.com/cliprise/awesome-ai-image-generator-prompts) - image generation prompts across marketing, product, and social use cases.
+- [Awesome GPT Image 2 prompts](https://github.com/cliprise/awesome-gpt-image-2-prompts) - OpenAI GPT Image style prompts, text, and layout-sensitive ideas.
+- [Awesome Nano Banana Pro prompts](https://github.com/cliprise/awesome-nano-banana-pro-prompts) - Gemini 3 Pro Image class prompts, text, and layout-heavy use cases.
+<!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
